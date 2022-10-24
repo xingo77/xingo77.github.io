@@ -15,6 +15,31 @@
     </entry>
     
     
+    
+    <entry>
+      <title>NoSQL概述</title>
+      <link href="/crc32/2a86dce.html"/>
+      <url>/crc32/2a86dce.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong>为实现中华民族伟大复兴而学习<code>Redis</code></strong></p><h1 id="为什么使用NoSQL"><a href="#为什么使用NoSQL" class="headerlink" title="为什么使用NoSQL"></a>为什么使用NoSQL</h1><p>用户的个人信息，社交网络，地理位置。用户自己产生的数据，用户日志等等爆发式增长！</p><p>这时候我们就需要是哦用NoSQL，NoSQL可以很好的处理以上的情况！</p><h1 id="什么是NoSQL"><a href="#什么是NoSQL" class="headerlink" title="什么是NoSQL"></a>什么是NoSQL</h1><p>NoSQL &#x3D; Not Only SQL（不仅仅是SQL） <code>**不是没有SQL的意思哦(手动狗头)**</code></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 中间件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> redis学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
